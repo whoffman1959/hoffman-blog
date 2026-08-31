@@ -64,13 +64,8 @@
 
           let markdownText = await response.text();
 
-          // Cleanly remove YAML frontmatter if it starts with '---'
-          if (markdownText.startsWith('---')) {
-            const secondDashIndex = markdownText.indexOf('---', 3);
-            if (secondDashIndex !== -1) {
-              markdownText = markdownText.substring(secondDashIndex + 3).trim();
-            }
-          }
+          // Bulletproof frontmatter removal using a regular expression
+          markdownText = markdownText.replace(/^---[\s\S]*?---/, '').trim();
 
           const htmlContent = marked.parse(markdownText);
 
