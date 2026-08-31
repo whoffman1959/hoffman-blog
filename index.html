@@ -56,17 +56,22 @@
         of Holman Bible Publishers.
       </p>
     </footer>
-
     <script>
       async function loadPosts() {
         try {
           const response = await fetch('content/posts/hello-world.md');
-          if (!response.ok)
-            throw new Error(
-              `HTTP error! status: ${response.status} - ${response.statusText}`,
-            );
+          if (!response.ok) throw new Error('Post not found');
 
-          const markdownText = await response.text();
+          let markdownText = await response.text();
+
+          // Strip out the YAML frontmatter if it exists (the header between --- lines)
+          if (markdownText.startsWith('---')) {
+            const parts = markdownText.split('---');
+            if (parts.length >= 3) {
+              markdownText = parts.slice(2).join('---').trim();
+            }
+          }
+
           const htmlContent = marked.parse(markdownText);
 
           const container = document.getElementById('posts-container');
@@ -77,7 +82,7 @@
           `;
         } catch (error) {
           document.getElementById('posts-container').innerHTML =
-            `<p style="color: red;">Debug Error: ${error.message}</p>`;
+            '<p>Check back soon for new blog posts, or log in at <a href="/admin/">/admin</a> to write your first entry!</p>';
         }
       }
       loadPosts();
