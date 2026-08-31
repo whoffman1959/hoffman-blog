@@ -33,7 +33,6 @@
       </section>
 
       <section id="blog" class="blog-section">
-        <h2>Reflections & Notes</h2>
         <div id="posts-container">
           <p>Loading posts...</p>
         </div>
@@ -60,9 +59,7 @@
       async function loadPosts() {
         try {
           // Add your new post filenames here at the top as you write them!
-          const postFiles = [
-            'content/posts/day-24-hope-and-victory.md'
-          ];
+          const postFiles = ['content/posts/day-24-hope-and-victory.md'];
 
           if (postFiles.length === 0) throw new Error('No posts found');
 
@@ -75,12 +72,12 @@
             if (!response.ok) continue; // Skip if a file fails to load
 
             let markdownText = await response.text();
-            
+
             // Bulletproof frontmatter removal using a regular expression
             markdownText = markdownText.replace(/^---[\s\S]*?---/, '').trim();
-            
+
             const htmlContent = marked.parse(markdownText);
-            
+
             container.innerHTML += `
               <article class="blog-post" style="margin-bottom: 3rem; border-bottom: 1px solid #eee; padding-bottom: 2rem;">
                 ${htmlContent}
