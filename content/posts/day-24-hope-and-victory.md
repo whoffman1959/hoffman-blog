@@ -1,8 +1,6 @@
-## Markdown
-
-title: "DAY 24 – HOPE AND VICTORY"
+---
+title: 'DAY 24 – HOPE AND VICTORY'
 date: 2026-08-31
-
 ---
 
 **DAY 24 – HOPE AND VICTORY**
