@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hoffman Remote Tutoring & Blog</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  </head>
+  <body>
+    <header>
+      <div class="nav-container">
+        <h1>Today's Reflection</h1>
+        <nav>
+          <a href="#about">About</a>
+          <a href="#blog">Blog</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section id="about" class="hero">
+        <h2>Daily Reflections</h2>
+        <p>
+          Thank you for choosing to spend time with these reflections. My only
+          desire in writing them is to honor our Loving Father, Son, and Holy
+          Ghost. To share the encouragement that we are given through the Word.
+          I am simply one person walking this journey of faith — humbled,
+          grateful, and continually learning. These are personal reflections. My
+          prayer is that these reflections help draw you closer to Jesus, the
+          One who is our peace and our hope.
+        </p>
+      </section>
+
+      <section id="blog" class="blog-section">
+        <h2>Reflections & Notes</h2>
+        <div id="posts-container">
+          <p>Loading posts...</p>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; William Hoffman Books. All rights reserved.</p>
+      <p
+        style="
+          font-size: 0.8rem;
+          color: #888;
+          max-width: 600px;
+          margin: 10px auto 0 auto;
+        "
+      >
+        Scripture quotations marked CSB are taken from the Christian Standard
+        Bible®, Copyright &copy; 2017 by Holman Bible Publishers. Used by
+        permission. Christian Standard Bible® and CSB® are registered trademarks
+        of Holman Bible Publishers.
+      </p>
+    </footer>
+
+    <script>
+      async function loadPosts() {
+        try {
+          const response = await fetch('posts.json');
+          const container = document.getElementById('posts-container');
+          container.innerHTML =
+            '<p>Check back soon for new blog posts, or log in at <a href="/admin/">/admin</a> to write your first entry!</p>';
+        } catch (error) {
+          document.getElementById('posts-container').innerHTML =
+            '<p>No posts found yet.</p>';
+        }
+      }
+      loadPosts();
+    </script>
+  </body>
+</html>
