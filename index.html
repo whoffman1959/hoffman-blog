@@ -59,22 +59,38 @@
     <script>
       async function loadPosts() {
         try {
-          const response = await fetch('content/posts/hello-world.md');
-          if (!response.ok) throw new Error('Post not found');
+          // Add your new post filenames here at the top as you write them!
+          const postFiles = [
+            'content/posts/day-24-hope-and-victory.md'
+          ];
 
-          let markdownText = await response.text();
-
-          // Bulletproof frontmatter removal using a regular expression
-          markdownText = markdownText.replace(/^---[\s\S]*?---/, '').trim();
-
-          const htmlContent = marked.parse(markdownText);
+          if (postFiles.length === 0) throw new Error('No posts found');
 
           const container = document.getElementById('posts-container');
-          container.innerHTML = `
-            <article class="blog-post" style="margin-bottom: 2rem; border-bottom: 1px solid #eee; padding-bottom: 1.5rem;">
-              ${htmlContent}
-            </article>
-          `;
+          container.innerHTML = ''; // Clear loading message
+
+          // Loop through every file in the array so all posts show up
+          for (const filePath of postFiles) {
+            const response = await fetch(filePath);
+            if (!response.ok) continue; // Skip if a file fails to load
+
+            let markdownText = await response.text();
+            
+            // Bulletproof frontmatter removal using a regular expression
+            markdownText = markdownText.replace(/^---[\s\S]*?---/, '').trim();
+            
+            const htmlContent = marked.parse(markdownText);
+            
+            container.innerHTML += `
+              <article class="blog-post" style="margin-bottom: 3rem; border-bottom: 1px solid #eee; padding-bottom: 2rem;">
+                ${htmlContent}
+              </article>
+            `;
+          }
+
+          if (container.innerHTML === '') {
+            throw new Error('No posts could be loaded');
+          }
         } catch (error) {
           document.getElementById('posts-container').innerHTML =
             '<p>Check back soon for new blog posts, or log in at <a href="/admin/">/admin</a> to write your first entry!</p>';
