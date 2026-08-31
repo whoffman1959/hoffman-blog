@@ -60,15 +60,15 @@
     <script>
       async function loadPosts() {
         try {
-          // Fetch your markdown post directly
           const response = await fetch('content/posts/hello-world.md');
-          if (!response.ok) throw new Error('Post not found');
-          
+          if (!response.ok)
+            throw new Error(
+              `HTTP error! status: ${response.status} - ${response.statusText}`,
+            );
+
           const markdownText = await response.text();
-          
-          // Convert markdown to HTML using Marked.js
           const htmlContent = marked.parse(markdownText);
-          
+
           const container = document.getElementById('posts-container');
           container.innerHTML = `
             <article class="blog-post" style="margin-bottom: 2rem; border-bottom: 1px solid #eee; padding-bottom: 1.5rem;">
@@ -77,7 +77,7 @@
           `;
         } catch (error) {
           document.getElementById('posts-container').innerHTML =
-            '<p>Check back soon for new blog posts, or log in at <a href="/admin/">/admin</a> to write your first entry!</p>';
+            `<p style="color: red;">Debug Error: ${error.message}</p>`;
         }
       }
       loadPosts();
