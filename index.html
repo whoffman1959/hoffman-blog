@@ -64,11 +64,11 @@
 
           let markdownText = await response.text();
 
-          // Strip out the YAML frontmatter if it exists (the header between --- lines)
+          // Cleanly remove YAML frontmatter if it starts with '---'
           if (markdownText.startsWith('---')) {
-            const parts = markdownText.split('---');
-            if (parts.length >= 3) {
-              markdownText = parts.slice(2).join('---').trim();
+            const secondDashIndex = markdownText.indexOf('---', 3);
+            if (secondDashIndex !== -1) {
+              markdownText = markdownText.substring(secondDashIndex + 3).trim();
             }
           }
 
