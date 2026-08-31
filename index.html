@@ -60,13 +60,24 @@
     <script>
       async function loadPosts() {
         try {
-          const response = await fetch('posts.json');
+          // Fetch your markdown post directly
+          const response = await fetch('content/posts/hello-world.md');
+          if (!response.ok) throw new Error('Post not found');
+          
+          const markdownText = await response.text();
+          
+          // Convert markdown to HTML using Marked.js
+          const htmlContent = marked.parse(markdownText);
+          
           const container = document.getElementById('posts-container');
-          container.innerHTML =
-            '<p>Check back soon for new blog posts, or log in at <a href="/admin/">/admin</a> to write your first entry!</p>';
+          container.innerHTML = `
+            <article class="blog-post" style="margin-bottom: 2rem; border-bottom: 1px solid #eee; padding-bottom: 1.5rem;">
+              ${htmlContent}
+            </article>
+          `;
         } catch (error) {
           document.getElementById('posts-container').innerHTML =
-            '<p>No posts found yet.</p>';
+            '<p>Check back soon for new blog posts, or log in at <a href="/admin/">/admin</a> to write your first entry!</p>';
         }
       }
       loadPosts();
