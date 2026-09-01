@@ -37,7 +37,7 @@ A true measure of our love and understanding of the Lord is whether we are on th
 
 1. What gifts has God given me to show love to others? Maybe it is being a good friend, giving my time or finances to someone in need, teaching the Word, or praying for others. Maybe it is something else, such as offering a word of encouragement. What gifts has God given me, and how can I use them to lift up others?
 2. Do I really love others deeply in my heart, or do I simply want to love others more deeply. Do I need to seek God's help in this area of my life?
-3. Do I know today that, if my time on Earth is at hand, I will be with Jesus? Are my sins are covered because of what the Lord did for me on the cross?
+3. Do I know today that, if my time on Earth is at hand, I will be with Jesus? Are my sins covered because of what the Lord did for me on the cross?
 
 **Prayer**
 
