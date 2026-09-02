@@ -25,7 +25,11 @@ Later in the Psalm, we have reassurance that the LORD will not leave His people.
 
 By turning our hate to love, being good to those who harm us as Jesus taught, and forgiving those who wrong us, those who hurt us might see a glimpse of the love of the Father in us and turn to Him.
 
-We know that we have a Father in Heaven who corrects us as His children, just as an earthly parent would correct a child. It hurt my mother and father to correct me as a child. They let me know this when I got older. They did it for my good. They did it so that I might become a better person and live safely. Our God also corrects us.
+We know that we have a Father in Heaven who corrects us as His children, allows testing to develop the character of our faith, and allows us to face the challenges of standing firm for His Word when those outside the faith oppose us. Just as an earthly parent would correct a child or allow them to face challenges that build them up, our Heavenly Father does it for us out of love. We prove our faith is real by what we endure.
+
+It hurt my mother and father to correct me as a child and to see me struggle as I became a better person. The schoolwork, the first rejection by someone I wanted to be with, not making the team at school—the list goes on. They let me know when I got older that they hurt with me and felt it most with the correction as it was given to me. They did it for my good. They did it so that I might become a better person and be able to survive in this world.
+
+Our God also corrects us, but He also allows us to face trials that strengthen our faith, develop perseverance, and teach us to stand firm in Him.
 
 If we, as His children, undergo correction, how much more serious is the judgment that awaits those who reject Him? Peter reminds us that judgment begins with God's household. If God's people are not exempt from suffering and judgment, what will become of those who disobey the gospel of God?
 
