@@ -19,19 +19,20 @@ Do nothing out of selfish ambition or conceit, but in humility consider others a
 
 This final chapter of 1 Peter contains exhortations and greetings. Peter first talks to the elders, those who, like Peter, have been entrusted with the responsibility to shepherd God's people. Jesus is the Chief Shepherd, while the elders and overseers are entrusted with shepherding and caring for the local congregation. The overseers were elders in the church.
 
-These overseers were to watch over the congregation, guiding and protecting the local group of believers. It was a responsibility ultimately given by the Lord. Jesus is called the Chief Shepherd, and He will reward those who take this responsibility to heart and willingly serve others. The overseer was not to lord it over the members of the local church. They were not to serve for wealth and fame, but as servant leaders, discipling and leading those who are growing in the Lord.
+These overseers were to watch over the congregation, guiding and protecting the local group of believers. It was a responsibility ultimately given by the Lord. Jesus is called the Chief Shepherd, and He will reward those who, both then and now, take this responsibility to heart and willingly serve others. The overseer was not to lord it over the members of the local church. They were not to serve for wealth and fame, but as servant leaders, discipling and leading those who are growing in the Lord.
 
-The overseer was and is entrusted to be an example to the flock, living the faith, not as a dictator but treating the flock as part of the same body. This is one of the precious beauties when we take the Lord's Supper. We who are many in the church partake of the same bread and cup in unity. We have the same Lord who saves us, Jesus the Son of God.
+The overseer was and is entrusted to be an example to the flock, living the faith, not as someone above the body, but as one who is part of the same body. This is one of the precious beauties when we take the Lord's Supper. We who are many in the church partake of the same bread and cup in unity. We have the same Lord who saves us, Jesus the Son of God.
 
 The role of an overseer takes a tremendous amount of energy behind the scenes that those they serve might not see behind the smiling lips on Sunday morning. Those with leadership roles sympathize, counsel, reprove, rebuke, teach, discipline, and warn. Being human, they live with the times when they make mistakes and fall on their knees before the Lord for forgiveness, as we all do.
 
-All members of the body of Christ, from the overseer to the least of us, are called to be humble. It is so important to listen to and support those who have been given leadership responsibilities in our local church communities and to make their burdensome job of leadership lighter. We are all called to care for each other and to put the needs of others above ourselves.
+All members of the body of Christ, from the overseer to the least of us, are called to be humble. It is so important to listen to and support those who have been given leadership responsibilities in our local church communities and to make their job of leadership lighter. We are all called to care for each other and to put the needs of others above ourselves.
+
 
 **Reflection Questions**
 
-1. As I look around the church and see the needs of others, how might I make the burden of those who serve and those who are being served lighter?
-2. Can I give room and forgiveness to those in leadership when they make mistakes and have off days?
-3. Do I try to usurp the leadership role in the church from those who have been given greater responsibility? Do I act as a dictator, or do I serve the Lord out of love for others and the well-being of the church?
+1.	As I look around the church and see the needs of others, how might I make the life of those who serve and those who are being served easier?
+2.	Can I give room and forgiveness to those in leadership when they make mistakes and have off days?
+3.	Do I try to usurp the leadership role in the church from those who have been given greater responsibility? Do I serve the Lord humbly, with love for others and for the well-being of the church?
 
 **Prayer**
 
