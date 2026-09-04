@@ -21,7 +21,7 @@ A trap in a believer’s walk is to think that God is too busy to care about the
 
 We are called to be sober and vigilant and not rely on our own strength. We have a powerful enemy who opposes the things of God, including us, His children. Satan is a roaring lion seeking anyone he can devour. Jesus has come to give us life in abundance. The enemy seeks to steal, kill, and destroy. We are called to hold firm in our faith when evil is trying to impact our walk as Christians, hurting everything around us and ourselves. God is in control, and the God who called us into the saving faith of His Son, Jesus, sees us and will restore, establish, strengthen, and support us in His right time.
 
-God does not promise us a life untouched by the enemy’s attacks, but He does promise that He sees us, holds us, and will ultimately restore us. A person might ask, “Well then, why does God just prevent bad things from happening to His children?” We live in a fallen world where sin and rebellion against God have brought suffering and death into human existence. Just as gold is tested and purified in fire, our faith is forged through the trials we undergo, stripping away false self-reliance.
+God does not promise us a life untouched by the enemy’s attacks, but He does promise that He sees us, holds us, and will ultimately restore us. A person might ask, “Well then, why doesn't God just prevent bad things from happening to His children?” We live in a fallen world where sin and rebellion against God have brought suffering and death into human existence. Just as gold is tested and purified in fire, our faith is forged through the trials we undergo, stripping away false self-reliance.
 
 If we were shielded from every battle, we would not experience as deeply the sustaining grace of God or the power of the resurrection. This earthly life is just a short span of time compared to eternity. Our suffering now is temporary, preparing us for the eternal glory where every tear will be wiped away. As humans, we have a narrow view and limited wisdom. We do not see the whole picture or the final result of the things that occur in our lives. Grace is always at work for those who belong to the Lord.
 
@@ -31,7 +31,7 @@ God is the giver of all grace, and we who are called to be saved through our Lor
 
 1. What are some of the persecutions of Christians that I see in the local community today and around the world?
 2. Are the trials and persecutions we see today different than what the early Christians went through during Peter’s Day?
-3. When undergoing persecution by those around us, do we try to resolve the issue on our own power, or do we go to our Heavenly Father in prayer, asking for strength to preserver and help in all situations?
+3. When undergoing persecution by those around us, do we try to resolve the issue on our own power, or do we go to our Heavenly Father in prayer, asking for strength to persevere and help in all situations?
 
 **Prayer**
 
