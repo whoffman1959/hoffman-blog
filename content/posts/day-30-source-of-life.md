@@ -3,7 +3,7 @@ title: 'DAY 30 – SOURCE OF LIFE'
 date: 2026-09-05
 ---
 
-**DAY 29 – SOURCE OF LIFE**
+**DAY 30 – SOURCE OF LIFE**
 
 **Scripture**
 
