@@ -1,6 +1,6 @@
 ---
 title: 'DAY 25 – BECOMING LIKE CHRIST'
-date: 2026-09-01
+date: 2026-08-31
 ---
 
 **DAY 25 – BECOMING LIKE CHRIST**
