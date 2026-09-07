@@ -17,7 +17,7 @@ Now God has revealed these things to us by the Spirit, since the Spirit searches
 
 **Staying Grounded in Truth**
 
-The Apostle Peter knows that his time on earth is short. He is writing to believers in Christ and to us so that we will not forget the truths that he saw personally and learned at the feet of Jesus. Peter stressed how important it is to develop Christian character, as did other writers of the New Testament.
+The Apostle Peter knows that his time on earth is short. He is writing to the believers in Christ of his day, but his words also speak to us so that we will not forget the truths that he saw personally and learned at the feet of Jesus. Peter stressed how important it is to develop Christian character, as did other writers of the New Testament.
 
 Why would the Apostle Peter need to wake believers up to remembrance? Because it is easy to become entangled in this world and forget that we have been called to be children of God. The Apostle Paul also warned us about the ways of the world and how the things of Christ would be considered foolishness by the world.
 
