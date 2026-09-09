@@ -11,7 +11,7 @@ date: 2026-09-09
 
 There were indeed false prophets among the people, just as there will be false teachers among you. They will bring in destructive heresies, even denying the Master who bought them, and will bring swift destruction on themselves. [2] Many will follow their depraved ways, and the way of truth will be maligned because of them. [3] They will exploit you in their greed with made-up stories. Their condemnation, pronounced long ago, is not idle, and their destruction does not sleep.
 
-**1 John 2:27  CSB**
+**1 John 2:27 CSB**
 
 As for you, the anointing you received from him remains in you, and you don't need anyone to teach you. Instead, his anointing teaches you about all things and is true and is not a lie; just as it has taught you, remain in him.
 
@@ -47,11 +47,11 @@ The early church understood this danger. After the time of the apostles, church 
 
 **Reflection Questions**
 
-1.	Do I spend enough time in Bible study and prayer to rightly determine whether what someone tells me is biblical truth? If I am confused, do I ask God to open my eyes to the truth?
+1. Do I spend enough time in Bible study and prayer to rightly determine whether what someone tells me is biblical truth? If I am confused, do I ask God to open my eyes to the truth?
 
-2.	Have there been times in my life when a false teacher or the teachings of the world tried to draw me away from the truth about Jesus and His death on the cross for my sins?
+2. Have there been times in my life when a false teacher or the teachings of the world tried to draw me away from the truth about Jesus and His death on the cross for my sins?
 
-3.	Am I a new believer who needs to be discipled by a mature Christian? Or, as a believer who has been taught and strengthened by the Spirit, am I willing to serve Christians who are young in the faith—not lording over them, but serving them as Jesus teaches in Matthew chapter 20?
+3. Am I a new believer who needs to be discipled by a mature Christian? Or, as a believer who has been taught and strengthened by the Spirit, am I willing to serve Christians who are young in the faith—not lording over them, but serving them as Jesus teaches in Matthew chapter 20?
 
 **Prayer**
 
@@ -60,4 +60,3 @@ Heavenly Father,
 I pray that You will fill me with Your Holy Spirit and teach me the truths of Your Word. Guide me into truth and protect me from wolves in sheep's clothing, those false teachers who would try to shipwreck my faith. I pray this not only for myself but for Christians around the world. Give us the desire to put on the full armor You have provided to protect us from the schemes of those who would lead us away from You. Help us especially to be firmly grounded in the gospel of Your Son Jesus, rooted in Your Word and prayer. Surround us with strong, mature Christians whom You have appointed to help us stand during days of testing. Thank You for the church body where we can worship together and reject falsehood. Keep us in the truth of Your Word. In Jesus' name we pray.
 
 Amen.
-
