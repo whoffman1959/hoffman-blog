@@ -41,12 +41,11 @@ God knows the heart. We cannot fool the Creator who made us.
 
 **Reflection Questions**
 
-1.	Am I careful about who I allow to influence my understanding of God? Do their words point me toward Christ and the truth of Scripture, or do they offer attractive promises that could lead me away from Him?
+1. Am I careful about who I allow to influence my understanding of God? Do their words point me toward Christ and the truth of Scripture, or do they offer attractive promises that could lead me away from Him?
 
-2.	Are there things in my life that I would be ashamed for Jesus to see? Do I need to confess them and receive His forgiveness? Have I asked God to loosen the hold that the things of this world may have on my heart?
+2. Are there things in my life that I would be ashamed for Jesus to see? Do I need to confess them and receive His forgiveness? Have I asked God to loosen the hold that the things of this world may have on my heart?
 
-3.	Am I truly trusting in the Lord and in what Jesus has done for the forgiveness of my sins?
-
+3. Am I truly trusting in the Lord and in what Jesus has done for the forgiveness of my sins?
 
 **Prayer**
 
@@ -55,4 +54,3 @@ Heavenly Father,
 Thank You for sending Your Son to die for my sins. Keep me from running after the empty promises of this world that lead away from Your truth. Turn my heart toward Your ways, and help me to stand apart from the corruption around me as Noah and Lot did. When trials come because I follow You, remind me that You know how to rescue the godly. Keep me sober-minded today, following Your will rather than the voices that would lead me astray. Fill me with Your Spirit, guard my heart from deception, and keep my eyes fixed on Jesus. In Jesus' name.
 
 Amen.
-
