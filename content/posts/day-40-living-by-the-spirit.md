@@ -35,11 +35,11 @@ It takes the power of the Holy Spirit, and that Spirit is given only to those wh
 
 **Reflection Questions**
 
-1.	Is there sin in my life that I need to confess to God? Do I believe in God’s word that I am forgiven through His Son?
+1. Is there sin in my life that I need to confess to God? Do I believe in God’s word that I am forgiven through His Son?
 
-2.	Do I fight the things of the world that have power over me through my own strength, or do I turn to the power of God? Do I go to God in prayer, asking for forgiveness and the strength to overcome?
+2. Do I fight the things of the world that have power over me through my own strength, or do I turn to the power of God? Do I go to God in prayer, asking for forgiveness and the strength to overcome?
 
-3.	Do I have a support group of other Christians around me so that I do not try to fight the things of the world on my own? Do I have others to pray for me, comfort me, and remind me that my strength is in the Lord?
+3. Do I have a support group of other Christians around me so that I do not try to fight the things of the world on my own? Do I have others to pray for me, comfort me, and remind me that my strength is in the Lord?
 
 **Prayer**
 
@@ -48,6 +48,3 @@ Heavenly Father,
 May I always follow after You, being led by Your Spirit of peace and love. Give me strength to overcome the temptations of this world. Surround me with believers to pray for me, comfort me, and remind me that my peace and strength are only in You. Take away the sin in my life so that I might better serve You and that my life might be a testimony for You. Remove jealousy, bitterness, and selfishness from my life, and let me follow after the things of the Spirit. In Jesus’ name.
 
 Amen.
-
-
-
