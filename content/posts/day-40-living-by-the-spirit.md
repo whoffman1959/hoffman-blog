@@ -35,7 +35,7 @@ It takes the power of the Holy Spirit, and that Spirit is given only to those wh
 
 **Reflection Questions**
 
-1. Is there sin in my life that I need to confess to God? Do I believe in God’s word that I am forgiven through His Son?
+1. Is there sin in my life that I need to confess to God? Do I believe, as it says in God’s Word, that I am forgiven through His Son?
 
 2. Do I fight the things of the world that have power over me through my own strength, or do I turn to the power of God? Do I go to God in prayer, asking for forgiveness and the strength to overcome?
 
