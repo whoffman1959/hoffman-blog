@@ -49,6 +49,6 @@ We do not know when the final day will come. The Doomsday Clock reminds us that 
 
 Heavenly Father,
 
-We know that time has continued to pass since the days of the Apostle John. We do not know when the final day and judgment will come, but we know that day is drawing nearer. Let us as believers take our responsibility seriously and tell others about the grace and forgiveness given through Your Son, Jesus Christ, that lead to eternal life. Keep us from following those who would lead us away from Your Son. Keep us centered in the faith and build us up through Your Holy Spirit. Let Your truth always be the foundation of our lives, and do not let us be led astray. Keep us from trying to create our own path to salvation. In Jesus' name we pray.
+We know that time has continued to pass since the days of the Apostle John. We do not know when the final day and judgment will come, but we know that day is drawing nearer. Let us as believers take our responsibility seriously and tell others about the grace and forgiveness given through Your Son, Jesus Christ. Keep us from following those who would lead us away from Your Son. Keep us centered in the faith and build us up through Your Holy Spirit. Let Your truth always be the foundation of our lives, and do not let us be led astray. Keep us from trying to create our own path to salvation. In Jesus' name we pray.
 
 Amen.
