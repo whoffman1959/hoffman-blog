@@ -31,7 +31,7 @@ John then tells us plainly how to recognize the antichrists he is warning about.
 
 This warning is just as important for us today. There are still people who claim to speak for God while teaching things that deny who Jesus truly is. Some may use Christian words while giving them a different meaning. Others may tell us that the truth we first learned about Jesus is not enough and that we need some special understanding to know God. We need to examine what we hear against the Word of God and remain grounded in the truth about His Son.
 
-But John does not leave the believers with only a warning. He reminds them that they have an anointing from the Holy One and that they know the truth. God has given us His Holy Spirit, who helps us understand His Word and remain in the truth. We do not have to live in fear that someone will come along with a hidden message that we must discover before we can belong to God. Our hope is in Jesus Christ.
+But John does not leave the believers with only a warning. He reminds them that they have an anointing from the Holy One and that they know the truth. God has given us His Holy Spirit, who helps us understand His Word and remain in the truth. We already belong to God. Our hope is in Jesus Christ.
 
 John's words should cause us to examine our own faith. Do we truly confess Jesus as the Christ, the Son of God? Are we trusting in His death on the cross for the forgiveness of our sins, or are we trying to find another way to God? Are we remaining in the truth that has been given to us through His Word?
 
