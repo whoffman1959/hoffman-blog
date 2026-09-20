@@ -31,9 +31,9 @@ John then tells us plainly how to recognize the antichrists he is warning about.
 
 This warning is just as important for us today. There are still people who claim to speak for God while teaching things that deny who Jesus truly is. Some may use Christian words while giving them a different meaning. Others may tell us that the truth we first learned about Jesus is not enough and that we need some special understanding to know God. We need to examine what we hear against the Word of God and remain grounded in the truth about His Son.
 
-But John does not leave the believers with only a warning. He reminds them that they have an anointing from the Holy One and that they know the truth. God has given us His Holy Spirit, who helps us understand His Word and remain in the truth. We already belong to God. Our hope is in Jesus Christ.
+But John does not leave the believers with only a warning. He reminds them that they have an anointing from the Holy One and that they know the truth. God has given us His Holy Spirit, who helps us understand His Word and remain in the truth. We have already been given the truth about Jesus Christ, and our hope is in Him.
 
-John's words should cause us to examine our own faith. Do we truly confess Jesus as the Christ, the Son of God? Are we trusting in His death on the cross for the forgiveness of our sins, or are we trying to find another way to God? Are we remaining in the truth that has been given to us through His Word?
+However, John's words should also cause us to examine our own faith. Do we truly confess Jesus as the Christ, the Son of God? Are we trusting in His death on the cross for the forgiveness of our sins, or are we trying to find another way to God? Are we remaining in the truth that has been given to us through His Word?
 
 We do not know when the final day will come. The Doomsday Clock reminds us that human actions can bring great destruction, but Scripture reminds us of something even more important: our lives are in God's hands, and we need to be prepared to meet Him. We can live each day trusting in His Son, remaining in His Word, and sharing with others the forgiveness and eternal life that are found in Jesus Christ.
 
