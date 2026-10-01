@@ -38,7 +38,9 @@ This is the faith that conquers the world. Our assurance does not rest in how mu
 **Reflection Questions**
 
 1. Am I assured of my salvation? Do I believe there is something more I need to do to be saved beyond what Jesus has already done for me on the cross?
+
 2. Am I trying to work my way to Heaven, or am I resting in the promise of God that Jesus paid it all?
+
 3. How does the Holy Spirit testify about Jesus in my life and give me assurance that I belong to Him?
 
 **Prayer**
