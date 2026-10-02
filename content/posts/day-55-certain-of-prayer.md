@@ -19,10 +19,11 @@ Because he has his heart set on me, I will deliver him; I will protect him becau
 
 No one wants me to be king over their life. There is a joke:
 
-_Knock, knock._
-_Who's there?_
-_Control Freak!_
-_Now you're supposed to say, “Control Freak who?”_
+Knock, knock.
+
+Who's there?
+
+Control Freak! Now you say, “Control Freak who?”
 
 It is in the nature of some of us to want to control everything, becoming little gods over our world and the people around us. We begin to think that we have enough wisdom, power, and understanding to direct the lives of others. Our thinking becomes, Everything would be fine if they would just do what I want! We make ourselves the center of everyone else's universe. And what happens? People often rebel. They do not want us to be king over their lives or to surrender control to us. Chaos often follows.
 
