@@ -47,7 +47,6 @@ From Naomi's point of view, much of what had once given her security was gone. Y
 
 Heavenly Father,
 
-Please give me the wisdom and strength to do Your will in this life instead of taking shortcuts to obtain the things I desire. When I am in trouble and distress, let me lift my needs to You in prayer and follow Your Word. Give me Christian friends who love You and whom I can lean on during difficult times. Help me to show that same love to other Christians who may feel abandoned and alone.
-When circumstances do not turn out as I hoped, help me not to assume that You have abandoned me. Teach me to trust You even when I cannot see what You are doing. Just as Naomi could not yet see what You were doing in her life, help me remember that I do not always know what You are preparing for tomorrow. In Jesus' name I pray.
+Please give me the wisdom and strength to do Your will in this life instead of taking shortcuts to obtain the things I desire. When I am in trouble and distress, let me lift my needs to You in prayer and follow Your Word. Give me Christian friends who love You and whom I can lean on during difficult times. Help me to show that same love to other Christians who may feel abandoned and alone. When circumstances do not turn out as I hoped, help me not to assume that You have abandoned me. Teach me to trust You even when I cannot see what You are doing. Just as Naomi could not yet see what You were doing in her life, help me remember that I do not always know what You are preparing for tomorrow. In Jesus' name I pray.
 
 Amen.
