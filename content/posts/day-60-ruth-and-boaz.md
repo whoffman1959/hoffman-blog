@@ -13,7 +13,7 @@ Now Naomi had a relative on her husband's side. He was a prominent man of noble 
 
 **Under His Wings**
 
-123As we read the reflection today, we get a snapshot of who Ruth is. She left her father and mother and her native land and followed Naomi to a land that was strange to her and to a people she did not know. She devoted herself to caring for Naomi. Ruth asked permission to go into the fields and gather the grain left behind by the harvesters so that she and Naomi would have something to eat.
+As we read the reflection today, we get a snapshot of who Ruth is. She left her father and mother and her native land and followed Naomi to a land that was strange to her and to a people she did not know. She devoted herself to caring for Naomi. Ruth asked permission to go into the fields and gather the grain left behind by the harvesters so that she and Naomi would have something to eat.
 
 Then we meet Boaz, a man who believed in the Lord. He came from Bethlehem to his field, apparently to oversee the work that was being done, and greeted his workers with a blessing: “The LORD be with you.” The workers replied in kind: “The LORD bless you.”
 
