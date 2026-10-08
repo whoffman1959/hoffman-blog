@@ -17,9 +17,9 @@ date: 2026-10-08
 
 **Gathering Grain**
 
-When we are distressed in life and worried about tomorrow, or stuck in things from the past, we can struggle to give all of our concerns to God. Prayer, combined with the faith that God hears us and cares about us, is a powerful tool against the anxieties of this life.
+When we are distressed in life and worried about tomorrow, or stuck in things from the past, we can struggle to give all of our concerns to God. Prayer, combined with the faith that God hears us and cares about us, is powerful against the anxieties of this life.
 
-The Bible tells us that there is a time to laugh and a time to cry. The abundant life knows both sorrow and happiness in this world, which is here only for a moment of our existence. Life can be joyous and painful, but through it all, we have One who sees all things and cares for us. God takes care of His creation. We are told that He knows when even a sparrow falls, and we are more important than sparrows. In times of joy and in times of want, we can turn to God and ask Him for help.
+The Bible tells us that there is a time to laugh and a time to cry. The abundant life knows both sorrow and happiness in this world, which is here only for a moment of our existence. Life can be joyous and painful, but through it all, we have One who sees all things and cares for us. God takes care of His creation. We are told that He knows when even a sparrow falls, and we are more important than sparrows. In times of joy and in times of want, we can turn to God in praise or ask Him for help.
 
 Naomi knew pain. She lost her husband and sons, finding herself alone in a foreign land with her two daughters-in-law. Yet she still held onto her faith. How do we know this? Ruth said to her, "Your people will be my people, and your God will be my God." God blessed Naomi with a daughter-in-law who loved her enough to care for her and travel with her. Scripture does not tell us everything that happened along the journey, but we can see God's providence as Naomi returned home. God was watching over her, just as He watches over us each day.
 
@@ -27,7 +27,7 @@ The customs of the time made it difficult for widows to survive on their own. Ye
 
 Boaz shared his table with Ruth, inviting her to join the harvesters for a meal. She ate roasted grain and was satisfied, with some left over. Then Boaz instructed his young men to allow her to gather even among the bundles, where there would be an abundance of grain, and to pull out some stalks for her. Ruth worked until evening and returned home with an abundance to share with Naomi.
 
-God watches over us and loves us, but do we have the faith and humility to come to Him, realizing that we are not the not the master of our own fates? We do not have the power to control everything that happens around us, but there is One who has all power, and that is God.
+God watches over us and loves us, but do we have the faith and humility to come to Him, realizing that we are not the master of our own fate? We do not have the power to control everything that happens around us, but there is One who has all power, and that is God.
 
 God invites us to eternal life through His Son. Through Jesus Christ, we can approach God in prayer with confidence, knowing that He hears us and cares about what we are facing. We know that God loves us because He sent His Son to die for us. The question is whether we can be humble enough to go to God in prayer, lay our needs at His feet, and have faith that He loves us and will provide according to His will.
 
