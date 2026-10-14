@@ -53,7 +53,7 @@ God's plans often extend far beyond what we can see in our own lifetimes. We may
 
 1. How did God work in the lives of Naomi and Ruth to bring about good? Is there a blessing or need in your own life that you can bring before Him in prayer?
 
-2. How does knowing that Jesus' family line included both Israelites and those from other nations strengthen our understanding that salvation is offered to everyone
+2. How does knowing that Jesus' family line included both Israelites and those from other nations strengthen our understanding that salvation is offered to everyone?
 
 3. How important is the institution of marriage to us today, and how does our understanding of marriage compare with that of Boaz and Ruth's time?
 
