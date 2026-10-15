@@ -39,7 +39,7 @@ When the command was delivered, Vashti refused to come. Scripture does not tell 
 
 Whatever her reason, her refusal stirred the king's anger. A man accustomed to having his commands obeyed had now been openly defied, and his authority appeared to have been challenged before those gathered at his banquet.
 
-Jesus tells us there are blessings in things that often run contrary to the thinking of worldly society. We certainly do not see this humility demonstrated by King Ahasuerus, and perhaps many of those caught up in the excitement and splendor of the celebration had also lost sight of it. The poor in spirit are those who acknowledge their own spiritual helplessness and rely upon God's strength. These are the ones Jesus says will be blessed.
+Jesus tells us there are blessings in things that often run contrary to the thinking of worldly society. One of these is humility. We certainly do not see this quality demonstrated by King Ahasuerus, and perhaps many of those caught up in the excitement and splendor of the celebration had also lost sight of it. The poor in spirit, whom Jesus speaks of in our Scripture reading today, are those who acknowledge their own spiritual helplessness and rely upon God's strength. These are the ones Jesus says will be blessed.
 
 The kingdom of heaven is not about self-sufficiency and self-exaltation. What becomes a virtue in the eyes of God is a humble heart.
 
