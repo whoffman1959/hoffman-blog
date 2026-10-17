@@ -1,9 +1,9 @@
 ---
-title: 'DAY 69 – CONSEQUENCES'
-date: 2026-10-16
+title: 'DAY 70 – AFTER THE STORM'
+date: 2026-10-17
 ---
 
-**DAY 69 – CONSEQUENCES**
+**DAY 70 – AFTER THE STORM**
 
 **Scripture**
 
