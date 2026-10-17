@@ -3,7 +3,7 @@ title: 'DAY 69 – CONSEQUENCES'
 date: 2026-10-16
 ---
 
-**DAY 69 – CONSEQUENCES**
+**DAY 70 – CONSEQUENCES**
 
 **Scripture**
 
