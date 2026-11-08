@@ -7,6 +7,10 @@ date: 2026-11-8
 
 **Scripture**
 
+**Mark 10:32–34 (CSB)**
+
+"They were on the road, going up to Jerusalem, and Jesus was walking ahead of them. The disciples were astonished, but those who followed him were afraid. Taking the Twelve again, he began to tell them the things that would happen to him. [33] “See, we are going up to Jerusalem. The Son of Man will be handed over to the chief priests and the scribes, and they will condemn him to death. Then they will hand him over to the Gentiles, [34] and they will mock him, spit on him, flog him, and kill him, and he will rise after three days.”
+
 **Mark 10:42–45 (CSB)**
 
 Jesus called them over and said to them, “You know that those who are regarded as rulers of the Gentiles lord it over them, and those in high positions act as tyrants over them. [43] But it is not so among you. On the contrary, whoever wants to become great among you will be your servant, [44] and whoever wants to be first among you will be a slave to all. [45] For even the Son of Man did not come to be served but to serve, and to give his life as a ransom for many.”
