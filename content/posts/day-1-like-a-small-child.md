@@ -1,9 +1,9 @@
 ---
-title: 'DAY 91 – LIKE A SMALL CHILD'
+title: 'DAY 1 – LIKE A SMALL CHILD'
 date: 2026-11-7
 ---
 
-**DAY 91 – LIKE A SMALL CHILD**
+**DAY 1 – LIKE A SMALL CHILD**
 
 **Scripture**
 
