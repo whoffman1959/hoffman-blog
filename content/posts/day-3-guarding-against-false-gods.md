@@ -1,50 +1,40 @@
 ---
-title: 'DAY 2 – BEING HUMBLE'
-date: 2026-11-8
+title: 'DAY 3 – GUARDING AGAINST FALSE GODS'
+date: 2026-11-9
 ---
 
-**DAY 2 – BEING HUMBLE**
+**DAY 3 – GUARDING AGAINST FALSE GODS**
 
 **Scripture**
 
-**Mark 10:32–34 (CSB)**
+**Deuteronomy 4:15–19 (CSB)**
 
-"They were on the road, going up to Jerusalem, and Jesus was walking ahead of them. The disciples were astonished, but those who followed him were afraid. Taking the Twelve again, he began to tell them the things that would happen to him. [33] “See, we are going up to Jerusalem. The Son of Man will be handed over to the chief priests and the scribes, and they will condemn him to death. Then they will hand him over to the Gentiles, [34] and they will mock him, spit on him, flog him, and kill him, and he will rise after three days.”
+"Be extremely careful for your own good—because you did not see any form on the day the LORD spoke to you out of the fire at Horeb— [16] so you don’t act corruptly and make an idol for yourselves in the shape of any figure: a male or female form, [17] or the form of any animal on the earth, any winged creature that flies in the sky, [18] any creature that crawls on the ground, or any fish in the waters under the earth. [19] When you look to the heavens and see the sun, moon, and stars—all the stars in the sky—do not be led astray and bow in worship to them and serve them. The LORD your God has provided them for all people everywhere under heaven."
 
 **Mark 10:42–45 (CSB)**
 
-Jesus called them over and said to them, “You know that those who are regarded as rulers of the Gentiles lord it over them, and those in high positions act as tyrants over them. [43] But it is not so among you. On the contrary, whoever wants to become great among you will be your servant, [44] and whoever wants to be first among you will be a slave to all. [45] For even the Son of Man did not come to be served but to serve, and to give his life as a ransom for many.”
+**Make No Graven Image**
 
-**Who is Greatest**
+When I was a young boy in the seventies, I remember watching family members and their friends get caught up in the fad of horoscopes, fortune tellers, and other spiritual experiments. Much like the séances of the early twentieth century, the Ouija board and other such practices became common—even in the homes of those who faithfully attended church on Sundays.
 
-It is natural for us to want advancement. We want to feel important, to be recognized, to be seen. When I was in the Navy, rank meant everything. With each promotion came new responsibilities, but also new privileges. Later, working as a civilian, a promotion meant more money, more prestige, and the comfort of knowing I was above others on the organizational chart instead of below them. That is how the world measures greatness.
+As I look back, I see how easily we as a people turned to anything but God for answers. Scripture is clear: we are not to seek spirits or bow down to other gods. Why chase after created things when we can go directly to our Creator, the One who knows all and holds our future?
 
-But the Kingdom does not work that way. In God’s Kingdom, greatness isn’t measured by status, title, rank, or salary. We are not called to climb over others but to lift others up. We are called to be servant leaders — giving of ourselves, placing the needs of others above our own, and following the example of Christ.
+But idolatry isn’t always as obvious as a carved statue or a ritual. For me, it often came in the form of my career, my education, and my desire for success. I justified questionable business practices, excused dishonesty in the name of “getting ahead,” and put work far above worship. Relationships, too, could become idols—especially when I tried to force them into something God never intended, convincing myself it was love even when it was disobedience.
 
-As Jesus and His disciples made their way toward Jerusalem, He walked ahead of them with determination. The disciples were amazed, and many who followed were afraid. Some may have feared He was leading them into rebellion. Others sensed suffering was near and feared they might share in it.
-
-But Jesus knew exactly what awaited Him: betrayal, mocking, flogging, death — and resurrection. He walked toward the cross fully aware, committed to the Father’s will, committed to saving us.
-
-And in the middle of this sacred moment, James and John were thinking not about His sacrifice, but about their own position. They wanted status in the coming Kingdom. While Jesus prepared to give His life, they were trying to secure seats of honor.
-
-Jesus’ response turns the world’s values upside down. True greatness, He teaches, is not found in authority or prestige but in humility and service. Whoever wants to be great must become a servant. Whoever wants to be first must become the last. Even the Son of Man — the One who rules all creation — came not to be served, but to serve, and to give His life as a ransom for many.
-
-If Jesus stooped so low for us, how can we cling to pride? If He took the lowest place, how can we insist on the highest?
-
-We often talk about “servant leadership,” but Jesus didn’t just talk about it — He lived it. And He invites us to follow Him in the same path: serving quietly, loving deeply, and leading through humility.
+The truth is, anything we elevate above God—whether money, relationships, reputation, or even ourselves—becomes a false god. Idolatry doesn’t just belong to the ancient world; it’s alive today whenever we give more devotion to something created than to the Creator.
 
 **Reflection Questions**
 
-1. How do I respond when following Jesus leads me into difficulty or sacrifice—do I shrink back in fear, or trust Him to carry me through?
+1. What “little gods” have I allowed to creep into my life—things that take more of my time and affection than God Himself?
 
-2. In what ways am I tempted to seek recognition or status, rather than humbly serving as Jesus did?
+2. How do I justify them in my own mind?
 
-3. How can I imitate Christ’s example of servant leadership in my family, workplace, and church this week?
+3. What steps can I take today to put God back at the center?
 
 **Prayer**
 
-Lord Jesus,
+Father,
 
-Thank You for walking the road to Jerusalem with courage and love, knowing the cross awaited You. Forgive me for the times I seek power or comfort instead of service and sacrifice. Teach me to walk in humility, to serve others with joy, and to remember that true greatness is found in following Your example. May my life reflect Your servant heart.
+Forgive me for the times I have given my heart to lesser things. Teach me to recognize idols in my life and give me the courage to lay them down. Help me to love You above all else, knowing You alone are worthy of my trust and worship.
 
 Amen.
