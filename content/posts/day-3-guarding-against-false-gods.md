@@ -11,8 +11,6 @@ date: 2026-11-9
 
 "Be extremely careful for your own good—because you did not see any form on the day the LORD spoke to you out of the fire at Horeb— [16] so you don’t act corruptly and make an idol for yourselves in the shape of any figure: a male or female form, [17] or the form of any animal on the earth, any winged creature that flies in the sky, [18] any creature that crawls on the ground, or any fish in the waters under the earth. [19] When you look to the heavens and see the sun, moon, and stars—all the stars in the sky—do not be led astray and bow in worship to them and serve them. The LORD your God has provided them for all people everywhere under heaven."
 
-**Mark 10:42–45 (CSB)**
-
 **Make No Graven Image**
 
 When I was a young boy in the seventies, I remember watching family members and their friends get caught up in the fad of horoscopes, fortune tellers, and other spiritual experiments. Much like the séances of the early twentieth century, the Ouija board and other such practices became common—even in the homes of those who faithfully attended church on Sundays.
