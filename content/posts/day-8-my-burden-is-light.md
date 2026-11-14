@@ -27,8 +27,7 @@ To love God with all our heart, soul, and mind, and to love others as ourselves.
 Through His humility and love, He invites us to lay down our heavy loads and take up His gentle yoke. In Him, we find rest—not because life becomes easy, but because His presence makes the burden light.
 
 We are saved not by our accomplishments, our consistency, or our best efforts,
-but because the Father, in His mercy, makes salvation possible—
-grace upon grace, even when we try to earn what is freely given.
+but because the Father, in His mercy, makes salvation possible—grace upon grace, even when we try to earn what is freely given.
 
 **Reflection Questions**
 
@@ -42,6 +41,6 @@ grace upon grace, even when we try to earn what is freely given.
 
 Lord Jesus,
 
-Thank You for inviting me to lay my burdens at Your feet. Forgive me for the times I’ve tried to earn what You freely offer—Your grace and rest. Teach me to walk beside You with a humble heart, learning from Your gentleness. Help me to release the weight of guilt, fear, and perfectionism, and to find peace in Your presence. May Your love guide me as I love God and others, just as You taught.
+Thank You for inviting me to lay my burdens at Your feet. Forgive me for the times I’ve tried to earn what You freely offer—Your grace and rest. Teach me to walk beside You with a humble heart, learning from Your gentleness. Help me to release the weight of guilt, fear, and perfectionism, and to find peace in Your presence. May Your love guide me as I love God the Father and others, just as You taught.
 
 Amen.
