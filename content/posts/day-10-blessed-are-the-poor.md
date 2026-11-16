@@ -7,6 +7,10 @@ date: 2026-11-16
 
 **Scripture**
 
+**Matthew 5:3 (CSB)**
+
+"Blessed are the poor in spirit, for the kingdom of heaven is theirs.
+
 **James 2:5 (CSB)**
 
 "Listen, my dear brothers and sisters: Didn’t God choose the poor in this world to be rich in faith and heirs of the kingdom that he has promised to those who love him?"
