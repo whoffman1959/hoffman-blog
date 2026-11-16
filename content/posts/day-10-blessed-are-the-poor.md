@@ -24,7 +24,7 @@ Jesus brings us back to the heart of the matter:
 
 To be poor in spirit is to recognize our complete dependence on God. It is the humility that says, “Father, without You I have nothing—and without You, I am nothing.”
 
-There is also another kind of “poor”—those who live with real needs: financial, emotional, or physical. Many who lack earthly resources often have a deeper awareness of their need for God. According to Jesus and James, these believers are often the richest—because their faith is uncluttered by pride or self-sufficiency.
+There is also another kind of “poor”—those who live with real needs: financial, emotional, or physical. Many who lack earthly resources often have a deeper awareness of their need for God. According to God's word, these believers are often the richest—because their faith is uncluttered by pride or self-sufficiency.
 
 It isn’t wrong to have wealth or influence. But it is dangerous to trust in them. True blessing belongs to those who, whether rich or poor, live with open hands—trusting God as their source and treating every person with equal grace and dignity.
 
