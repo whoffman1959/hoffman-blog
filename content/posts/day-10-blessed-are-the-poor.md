@@ -13,7 +13,7 @@ date: 2026-11-16
 
 **Poor in Spirit**
 
-My wife often reminds me that I enjoy the finer things in life a little too much. I’m not always satisfied with the old car making strange noises, and I remember the days when I drove something shiny with that new-car smell. I wish my waistline looked like it did in my twenties, when I felt strong and confident. I think back to the seasons when I was important in business, when people relied on my expertise. Now I’m retired, older, and just another ordinary person—and this itself has been a lesson.
+My wife often reminds me that I enjoy the finer things in life a little too much. I’m not always satisfied with the old car making strange noises, and I remember the days when I drove something shiny with that new-car smell. I wish my waistline looked like it did in my twenties, when I felt strong and confident. I think back to the seasons when I was important in business, when people relied on my expertise. Now I’m retired, older, and cannot work. This itself has been a lesson.
 
 The truth is, no one is better than another. Every one of us is made in the image of God. Every one of us is valuable—not because of what we own, how we look, or what titles we hold, but because of the Father who created us.
 
