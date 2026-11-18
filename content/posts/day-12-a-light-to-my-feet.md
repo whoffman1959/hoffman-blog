@@ -17,9 +17,9 @@ date: 2026-11-18
 
 **Your Word, Father**
 
-The Father has given us many gifts to guide and strengthen us throughout life. Through His Son, He offers forgiveness for our sins—both the ones we recognize and those hidden from our understanding. Through the Holy Spirit, He comforts, teaches, and convicts. He gives us pastors and teachers to encourage our faith. He gives us prayer so we can draw near to Him. But one of His greatest gifts is His written Word.
+The Father has given us many gifts to guide and strengthen us throughout life. Through His Son, He offers forgiveness for our sins—both the ones we recognize and those hidden from our understanding. Through the Holy Spirit, He comforts, teaches, and convicts. He gives us pastors and teachers to encourage our faith. He gives us prayer so we can draw near to Him. But another great and powerful gift is His written Word.
 
-The psalmist declares his love for God’s instruction and meditates on it throughout the day. Later, he describes that Word as a lamp to his feet and a light to his path—God’s wisdom guiding every step. Between those verses lies the promise of understanding: through Scripture, God gives wisdom to those who seek Him.
+The psalmist declares his love for God’s instruction and meditates on it throughout the day. Later, he describes that Word as a lamp for his feet and a light on his path, showing how God’s wisdom guides every step. And between those two verses lies a deeper promise: through Scripture, God gives wisdom and understanding to all who seek Him.
 
 I have found this to be deeply true in my own life. In seasons of distress and in seasons of joy, there is something precious about opening the Bible each day. It’s a habit I learned from my step-father, who I often found in the early morning with coffee beside him and Scripture open on his lap. Now I follow that same pattern—making breakfast, brewing a fresh cup, settling in with the cat curled on my legs, and reading the Word. In those quiet moments, I meditate on the Father’s voice, listening through the Holy Spirit as Scripture becomes both a mirror and a guide—reflecting the faith of those who walked before me and offering direction for the path ahead.
 
