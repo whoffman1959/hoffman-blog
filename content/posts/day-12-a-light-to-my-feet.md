@@ -3,7 +3,7 @@ title: 'DAY 12 – A LIGHT TO MY FEET'
 date: 2026-11-18
 ---
 
-**DAY 11 – A LIGHT TO MY FEET**
+**DAY 12 – A LIGHT TO MY FEET**
 
 **Scripture**
 
