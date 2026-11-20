@@ -27,7 +27,7 @@ James reminds us that when we ask, we must ask in faith. The one who doubts is l
 
 Faith does not mean we never feel afraid—it means we choose to trust God even when we do. We grow stronger in faith by remembering what God has already done for us. One powerful way to do this is through journaling. By writing down the ways God has provided, guided, and answered prayer, we build a record of His faithfulness. Then, when doubt creeps in, we can look back and remember:
 
-God has never failed us yet.
+God has never failed us.
 
 **Reflection Questions**
 
