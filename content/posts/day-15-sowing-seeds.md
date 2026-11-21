@@ -19,7 +19,7 @@ I have watched this parable unfold in many lives, including my own. Some people 
 
 Others are like the rocky soil—eager for something new, chasing the next movement or following the faith of another person. Their intentions may be sincere, but without depth or personal conviction, faith withers once life shifts or the relationship fades, because no root ever formed.
 
-Still others, like myself, genuinely believe, yet slowly allow the pull of life to crowd out devotion. Work, marriage, responsibilities, and good intentions can all become thorns if they take priority over the Father. Everyone has their own version of this story.
+Still others genuinely believe, yet slowly allow the pull of life to crowd out devotion. Work, marriage, responsibilities, and good intentions can all become thorns if they take priority over the Father. Everyone has their own version of this story.
 
 Even long-term believers must guard their hearts. The world rarely pulls us away in one dramatic moment—it happens gradually. The demands of daily life and the noise around us can dull our love for God until we suddenly realize that spiritual thorns have begun to wrap around our hearts.
 
@@ -29,11 +29,11 @@ Those who push through the distractions and allow God to deepen their faith grow
 
 **Reflection Questions**
 
-1. What “thorns” in my life tend to choke my time with God or weaken my focus on Him?
+1. What “thorns” in our lives tend to choke our time with God or weaken our focus on Him?
 
-2. How can I make intentional space for spiritual growth amid life’s distractions?
+2. How can we make intentional space for spiritual growth amid life’s distractions?
 
-3. What opportunities has God given me to plant seeds of faith in others this week?
+3. What opportunities has God given us to plant seeds of faith in others this week?
 
 **Prayer**
 
