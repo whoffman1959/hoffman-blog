@@ -29,11 +29,11 @@ Those who push through the distractions and allow God to deepen their faith grow
 
 **Reflection Questions**
 
-1. What “thorns” in our lives tend to choke our time with God or weaken our focus on Him?
+1. What “thorns” in my life tend to choke my time with God or weaken my focus on Him?
 
-2. How can we make intentional space for spiritual growth amid life’s distractions?
+2. How can I make intentional space for spiritual growth amid life’s distractions?
 
-3. What opportunities has God given us to plant seeds of faith in others this week?
+3. What opportunities has God given me to plant seeds of faith in others this week?
 
 **Prayer**
 
