@@ -24,8 +24,11 @@ The word for fear in Deuteronomy 10 is not this dreadful fear that drives us awa
 It is hard to truly love someone you are terrified of. The Father does not call us into dread, but into fellowship. The yirah kind of “fear” draws us closer, filling us with gratitude and a desire to walk in His ways.
 
 To live in yirah is to stand amazed:
+
 —to see God’s majesty in creation,
+
 —His mercy in forgiveness,
+
 —and His faithfulness in every moment of our lives.
 
 It is to be humbled by His power and comforted by His nearness.
