@@ -1,6 +1,6 @@
 ---
 title: 'DAY 17 – FOR HIS GLORY'
-date: 2026-11-22
+date: 2026-11-23
 ---
 
 **DAY 17 – FOR HIS GLORY**
