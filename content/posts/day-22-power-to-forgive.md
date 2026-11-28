@@ -20,11 +20,13 @@ But so that you may know that the Son of Man has authority on earth to forgive s
 I once sat with a dear woman who was nearing the end of her life — a faithful servant of Christ who had spent her years feeding the hungry, encouraging believers, and loving her church family. As her strength faded, she looked at me and whispered, “I’ve done so much wrong.”
 
 That moment stays with me. Even the most faithful hearts often carry quiet guilt — memories of missed chances, selfish words, or moments when pride won out over grace. We remember our failures more easily than our faithfulness.
+
 But this is the good news: Jesus took our place. He bore our punishment so that we could be free. On the cross, He didn’t just forgive sins — He removed their power to define us.
 
 We don’t have to live chained to our past. We are free to sing, to serve, to rejoice. The Son of God, who radiates the very glory of the Father, has the authority to forgive completely. When He says, “You are forgiven,” it is finished.
 
 The Pharisees once asked, “Who can forgive sins but God alone?” They were right — and that’s exactly who Jesus is. The fullness of God’s mercy made flesh.
+
 For all who come to Him in faith, there is complete forgiveness, lasting peace, and a life made new.
 
 We are free — truly free — to live for His glory.
